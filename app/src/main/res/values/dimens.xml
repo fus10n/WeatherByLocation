@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="no_dimen">0dp</dimen>
+    <dimen name="main_search_edt_margin_horizontal">30dp</dimen>
+    <dimen name="main_search_edt_margin_top">50dp</dimen>
+    <dimen name="main_spinner_padding">160dp</dimen>
+    <dimen name="main_content_margin_top">@dimen/main_search_edt_margin_top</dimen>
+</resources>
