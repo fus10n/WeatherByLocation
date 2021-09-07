@@ -7,6 +7,9 @@ import com.google.gson.JsonParseException
 import java.io.InputStream
 import java.io.InputStreamReader
 
+/**
+ *
+ */
 object ContentParser {
 
     private val gson = GsonBuilder().create()
